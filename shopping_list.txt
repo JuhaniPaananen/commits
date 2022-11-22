@@ -4,5 +4,3 @@ vihkoja
 
 
 ja kyniä
-
-+näppis
